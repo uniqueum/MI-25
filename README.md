@@ -1,15 +1,13 @@
-# Medieninformatik '25 Mitschriften
+# Medieninformatik '25
 
-Hier sammeln wir unsere Mitschriften und können kollaborieren.
+Hier sammeln wir Merkblätter und Übungen.
 
 ## Setup
 
-- Repo clonen (GitHub Dektop App probieren, die ist sehr praktisch)
-- Am besten in einen Cloud Dienst speichern (bspw. iCloud), dann ist das geräteübergreifend synced
-- Repo in Markdown Editor eurer Wahl öffnen (Obsidian)
+- Repo clonen (GitHub Dektop App probieren, die ist ganz praktisch)
+- Repo öffnen (Markdown Editor oder VSCode)
 
 
 ## Konventionen
 
-- bitte mit Pull Requests arbeiten, nicht auf main pushen
-- neue Branches bitte mit new/ oder edit/ benennen
+- bei tiefgreifenden Sachen besser eine PR stellen
